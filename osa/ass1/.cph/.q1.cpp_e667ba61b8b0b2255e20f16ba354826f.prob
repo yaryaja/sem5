@@ -1,0 +1,1 @@
+{"name":"Local: q1","url":"/home/ajay/Desktop/sem5/osa/ass1/q1.cpp","tests":[{"id":1692704145804,"input":"4 4 \n1 4 2 3\n1 3 5 4 \n4 3 10 11\n3 2  8 1\n\n4 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ajay/Desktop/sem5/osa/ass1/q1.cpp","group":"local","local":true}
