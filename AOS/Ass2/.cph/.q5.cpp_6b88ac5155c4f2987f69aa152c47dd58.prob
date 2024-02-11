@@ -1,0 +1,1 @@
+{"name":"Local: q5","url":"/home/ajay/Desktop/sem5/AOS/Ass2/q5.cpp","tests":[{"id":1695219601047,"input":"5\n6\n101011\n010100\n5\n00000\n9\n100100011\n3\n100\n1\n1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ajay/Desktop/sem5/AOS/Ass2/q5.cpp","group":"local","local":true}
